@@ -13,7 +13,7 @@ import { Badge } from './components/ui/badge';
 import { Textarea } from './components/ui/textarea';
 import { Separator } from './components/ui/separator';
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from './components/ui/collapsible';
-import { toast } from 'sonner@2.0.3';
+import { toast } from 'sonner';
 
 type EmphasisType = '쿠폰' | '이벤트' | '특정 키워드' | '기타';
 
